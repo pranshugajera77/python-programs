@@ -1,14 +1,6 @@
-list1 = {"Pranshu","Gajera"}
-list2 = {"surat","mota-varachha"}
+a = 12
+b = 99.34
+c = "Pranshu"
 
-
-
-list1.update("1,2,3")
-list2.update("4,5,6")
-
-print(list1)
-print(list2)
-
-
-print(type(list1))
-print(type(list2))
+print(a, b, c)
+print(type(a, b, c))
